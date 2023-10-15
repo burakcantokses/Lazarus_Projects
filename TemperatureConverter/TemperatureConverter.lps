@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="23"/>
+        <CursorPos X="10" Y="49"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="36" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="15" Column="12"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="17" Column="2"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="39" Column="18" TopLine="8"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="26" Column="48"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="19" Column="34" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="9" Column="14"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="20" Column="52"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="30" Column="65" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="20" Column="38"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="39" Column="15" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="41" Column="5" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="45" Column="5" TopLine="5"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="44" Column="14" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="41" Column="79" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="6" Column="22"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="46" Column="25" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="23" Column="117" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="29" Column="68" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="26" Column="12" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="32" Column="52" TopLine="9"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="40" Column="46" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="38" Column="39" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="6" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="15" Column="18"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="30" Column="20"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="37" Column="55" TopLine="21"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="44" Column="12" TopLine="22"/>
+      </Position>
+      <Position>
+        <Filename Value="TemperatureConverter.lpr"/>
+        <Caret Line="48" Column="32" TopLine="23"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
