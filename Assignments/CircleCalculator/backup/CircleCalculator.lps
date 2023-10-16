@@ -9,9 +9,9 @@
         <Filename Value="CircleCalculator.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="12"/>
-        <CursorPos X="44" Y="27"/>
-        <UsageCount Value="21"/>
+        <TopLine Value="24"/>
+        <CursorPos X="27" Y="53"/>
+        <UsageCount Value="20"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
