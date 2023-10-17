@@ -67,7 +67,7 @@ begin
     TextColor(2);
     result := (vize * vizeRate / 100) + (final * finalRate / 100);
 
-    if (result >=0) and (result <=29) then point:='FF';    pointColor:=RED;
+    if (result >=0) and (result <=29) then point:='FF',    pointColor:=RED;
     if (result >=30) and (result <=40) then point:='FD';   pointColor:=RED;
     if (result >=41) and (result <=49) then point:='DD';   pointColor:=RED;
     if (result >=50) and (result <=59) then point:='DC';   pointColor:=LightRed;
