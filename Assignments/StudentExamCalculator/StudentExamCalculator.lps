@@ -9,13 +9,13 @@
         <Filename Value="StudentExamCalculator.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="50"/>
-        <CursorPos X="56" Y="70"/>
+        <TopLine Value="84"/>
+        <CursorPos Y="115"/>
         <UsageCount Value="22"/>
         <Loaded Value="True"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="2">
+    <JumpHistory HistoryIndex="3">
       <Position>
         <Filename Value="StudentExamCalculator.lpr"/>
         <Caret Line="62" Column="25" TopLine="23"/>
@@ -27,6 +27,10 @@
       <Position>
         <Filename Value="StudentExamCalculator.lpr"/>
         <Caret Line="86" Column="32" TopLine="55"/>
+      </Position>
+      <Position>
+        <Filename Value="StudentExamCalculator.lpr"/>
+        <Caret Line="97" Column="27" TopLine="47"/>
       </Position>
     </JumpHistory>
     <RunParams>

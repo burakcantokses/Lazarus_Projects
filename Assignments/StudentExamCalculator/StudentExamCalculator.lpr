@@ -67,22 +67,59 @@ begin
     TextColor(2);
     result := (vize * vizeRate / 100) + (final * finalRate / 100);
 
-    if (result >=0) and (result <=29) then point:='FF';    pointColor:=RED;
-    if (result >=30) and (result <=40) then point:='FD';   pointColor:=RED;
-    if (result >=41) and (result <=49) then point:='DD';   pointColor:=RED;
-    if (result >=50) and (result <=59) then point:='DC';   pointColor:=LightRed;
-    if (result >=60) and (result <=70) then point:='CC';   pointColor:=LightRed;
-    if (result >=71) and (result <=79) then point:='BC';   pointColor:=YELLOW;
-    if (result >=80) and (result <=89) then point:='BB';   pointColor:=YELLOW;
-    if (result >=90) and (result <=94) then point:='BA';   pointColor:=GREEN;
-    if (result >=95) and (result <=100) then point:='AA';  pointColor:=GREEN;
+    if (result >= 0) and (result <= 29) then
+    begin
+      point := 'FF';
+      pointColor := RED;
+    end
+    else if (result >= 30) and (result <= 40) then
+    begin
+      point := 'FD';
+      pointColor := RED;
+    end
+    else if (result >= 41) and (result <= 49) then
+    begin
+      point := 'DD';
+      pointColor := RED;
+    end
+    else if (result >= 50) and (result <= 59) then
+    begin
+      point := 'DC';
+      pointColor := LightRed;
+    end
+    else if (result >= 60) and (result <= 70) then
+    begin
+      point := 'CC';
+      pointColor := LightRed;
+    end
+    else if (result >= 71) and (result <= 79) then
+    begin
+      point := 'BC';
+      pointColor := YELLOW;
+    end
+    else if (result >= 80) and (result <= 89) then
+    begin
+      point := 'BB';
+      pointColor := YELLOW;
+    end
+    else if (result >= 90) and (result <= 94) then
+    begin
+      point := 'BA';
+      pointColor := GREEN;
+    end
+    else if (result >= 95) and (result <= 100) then
+    begin
+      point := 'AA';
+      pointColor := GREEN;
+    end;
+
 
     WriteLn(lesson, ' dersi icin notlariniz asagidaki gibidir.');
     WriteLn('Vize notunuz: ', vize);
     WriteLn('Final notunuz: ', final);
     WriteLn();
-    WriteLn('Ortalamaniz: ', result:1:1);
     TextColor(pointColor);
+    WriteLn('Ortalamaniz: ', result:1:1);
     WriteLn('Notunuz: ', point);
     Delay(2000);
 
