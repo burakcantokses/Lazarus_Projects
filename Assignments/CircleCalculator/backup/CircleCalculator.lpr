@@ -24,7 +24,7 @@ begin
         result := pi * (radius * radius);
         ClrScr;
         TextColor(2);
-        WriteLn('Dairenin alani: ', result:0:2);
+        WriteLn('Dairenin alani: ', result:3:3);
       end
     else if (choice = 'C') or (choice = 'c') then
       begin

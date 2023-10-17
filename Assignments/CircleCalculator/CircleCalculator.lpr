@@ -5,7 +5,7 @@ var
   choice : char;
   pi : real = 3.14;
   result : real;
-  radius : Integer;
+  radius : real;
 
 begin
   Repeat
