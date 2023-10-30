@@ -22,13 +22,13 @@ This repository includes sample code for various assignments, projects, and topi
 
 Herhangi bir soru veya geri bildiriminiz varsa, lütfen iletişime geçmekten çekinmeyin. Aşağıdaki iletişim bilgileriyle benimle iletişime geçebilirsiniz:
 
-- Adınız: Burakcan TOKSES
+- Ad - Soyad: Burakcan TOKSES
 - E-posta: burakcantokses5@gmail.com
 - LinkedIn: [Burakcan TOKSES](https://www.linkedin.com/in/burakcan-tokses/)
 
 If you have any questions or feedback, please don't hesitate to get in touch. You can contact me using the following contact information:
 
-- Your Name: Burakcan TOKSES
+- Name Surname: Burakcan TOKSES
 - Email: burakcantokses5@gmail.com
 - LinkedIn: [Burakcan TOKSES](https://www.linkedin.com/in/burakcan-tokses/)
 
