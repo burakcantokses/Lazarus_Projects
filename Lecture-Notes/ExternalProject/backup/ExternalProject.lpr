@@ -133,7 +133,6 @@ begin
                WriteLn('KAC ADET SAYI GIRILECEK?');
                ReadLn(maxInput);
                total:=0;
-               sum:=0;
                for i := 1 to maxInput do
                    begin
                         WriteLn(i,'. SAYIYI GIRIN.');
