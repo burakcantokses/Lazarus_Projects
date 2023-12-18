@@ -43,7 +43,7 @@ begin
       begin
         for i := 1 to passwordLength do
         begin
-          generatedPassword := generatedPassword + Chr(Random(26) + Ord('A'));
+          generatedPassword := generatedPassword + letterChars[Random(Length(letterChars))];
         end;
         Result := generatedPassword;
       end;

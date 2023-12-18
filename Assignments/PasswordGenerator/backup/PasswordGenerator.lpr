@@ -141,6 +141,7 @@ end;
 
 begin
   Repeat
+    ClrScr;
     writeDefaultText;
     selectLevel;
     if (areYouChangePasswordLength = 'E') then changePasswordLength;
@@ -150,6 +151,8 @@ begin
     WriteLn(generatePassword(passwordLevel, passwordLength));
 
     Delay(1000);
+    WriteLn();
+    TextColor(7);
     WriteLn('YENI SIFRE OLUSTURMAK ICIN BIR TUSA BAS. CIKMAK ICIN "0" TUSUNA BAS.');
     if (ReadKey='0') then break;
   until false;
