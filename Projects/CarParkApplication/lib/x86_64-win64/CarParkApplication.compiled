@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="A:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1449427374"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw2 -godwarfsets -gl -l -vewnhibq -FiD:\Projects\Lazarus\Lazarus_Projects\Projects\CarParkApplication\lib\x86_64-win64 -FuD:\Projects\Lazarus\Lazarus_Projects\Projects\CarParkApplication\ -FUD:\Projects\Lazarus\Lazarus_Projects\Projects\CarParkApplication\lib\x86_64-win64\ -FED:\Projects\Lazarus\Lazarus_Projects\Projects\CarParkApplication\ -oD:\Projects\Lazarus\Lazarus_Projects\Projects\CarParkApplication\CarParkApplication.exe CarParkApplication.lpr"/>
+</CONFIG>
